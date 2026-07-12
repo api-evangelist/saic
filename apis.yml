@@ -70,6 +70,8 @@ apis:
       under government contract rather than as a self-serve developer
       product.
 common:
+  - type: DomainSecurity
+    url: security/saic-domain-security.yml
   - type: Website
     url: https://www.saic.com
   - type: Capabilities
@@ -80,6 +82,8 @@ common:
     url: https://www.linkedin.com/company/saic
   - type: Careers
     url: https://jobs.saic.com
+  - url: https://investors.saic.com/rss/news-releases.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
