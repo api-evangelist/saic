@@ -17,21 +17,6 @@ Science Applications International Corporation (SAIC) is a Reston, Virginia base
 
 ## APIs
 
-### SAIC Corporate
-
-SAIC's corporate website is the public-facing surface for the company's federal services portfolio (Mission IT, Enterprise IT, Engineering Services, Professional Services, Mission Integration). No developer portal, public REST API, OpenAPI specification, SDK, or sample code repository is exposed. All technology — including SAIC's AI services, Koverse data platform, and digital engineering work — is delivered under government contract rather than as a self-serve developer product.
-
-- **Human URL:** https://www.saic.com
-- **Tags:** Federal IT, Defense, Government Services
-
-**Properties:**
-
-- [Website](https://www.saic.com)
-- [Capabilities](https://www.saic.com/what-we-do)
-- [Investor Relations](https://investors.saic.com)
-- [Newsroom](https://www.saic.com/about/news)
-- [Careers](https://jobs.saic.com)
-- [LinkedIn](https://www.linkedin.com/company/saic)
 
 ## Timestamps
 

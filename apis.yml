@@ -17,11 +17,22 @@ tags:
   - Fortune 1000
 type: Index
 kind: company
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/saic.png
 access: 3rd-Party
 position: Consuming
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-07-25'
 description: >-
   Science Applications International Corporation (SAIC) is a Reston, Virginia
   based technology integrator that delivers mission IT, enterprise IT,
@@ -39,36 +50,7 @@ description: >-
   have been identified for SAIC — its software and platforms are delivered
   under federal contract to government customers rather than as
   externally-consumable developer products.
-apis:
-  - aid: saic:saic-website
-    name: SAIC Corporate
-    tags:
-      - Federal IT
-      - Defense
-      - Government Services
-    humanURL: https://www.saic.com
-    properties:
-      - type: Website
-        url: https://www.saic.com
-      - type: Capabilities
-        url: https://www.saic.com/what-we-do
-      - type: Investor Relations
-        url: https://investors.saic.com
-      - type: Newsroom
-        url: https://www.saic.com/about/news
-      - type: Careers
-        url: https://jobs.saic.com
-      - type: LinkedIn
-        url: https://www.linkedin.com/company/saic
-    description: >-
-      SAIC's corporate website is the public-facing surface for the company's
-      federal services portfolio (Mission IT, Enterprise IT, Engineering
-      Services, Professional Services, Mission Integration). No developer
-      portal, public REST API, OpenAPI specification, SDK, or sample code
-      repository is exposed. All technology — including SAIC's AI services,
-      Koverse data platform, and digital engineering work — is delivered
-      under government contract rather than as a self-serve developer
-      product.
+apis: []
 common:
   - type: DomainSecurity
     url: security/saic-domain-security.yml
