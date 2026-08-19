@@ -2,6 +2,7 @@ aid: saic
 url: >-
   https://raw.githubusercontent.com/api-evangelist/saic/refs/heads/main/apis.yml
 name: Science Applications International Corporation (SAIC)
+specificationVersion: '0.23'
 tags:
   - Defense
   - Intelligence
